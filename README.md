@@ -7,7 +7,7 @@ The dashboard was created for the visualisation module for my Data ScienceMaster
 
 [Dashboard](https://public.tableau.com/views/BlackCoffeeAnalysis/ArtistRadio-ActivityDashboard2020?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-The main report is written in "Visualisation Final Report - Mark Stent.pdf"
+The main report can be found [here](Visualisation%20final%20report%20-%20Mark%20Stent.pdf)
 
 ## Attachments to the report
 
