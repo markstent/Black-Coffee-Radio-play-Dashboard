@@ -12,7 +12,7 @@ The main report is written in "Visualisation Final Report - Mark Stent.pdf"
 ## Attachments to the report
 
 - [Project Backlog](Appendix/SAMRO-tool-backlog.pdf)
-- [Juypter notebook](Appendix/BC - Datacleaning.ipynb, BC - Datacleaning.pdf)
+- [Juypter notebook](Appendix/BC - Datacleaning.pdf)
 - [Dashboard Screenshot](Appendix/Artist Radio-Activity Dashboard 2020.png)
 - [Previous assignment 1](Appendix/Masters visualisation report 1.pdf)
 
