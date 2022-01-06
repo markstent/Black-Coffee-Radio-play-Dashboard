@@ -20,6 +20,5 @@ The main report can be found [here](Visualisation%20final%20report%20-%20Mark%20
 
 Mark Stent
 
-CETM25 2022
 
 
