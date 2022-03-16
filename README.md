@@ -3,7 +3,7 @@
 Module: CETM70 - Visualisation
 Date: 04/01/2022
 
-The dashboard was created for the visualisation module for my Data ScienceMasters degree and was pre-processed and analyzed in Python and the visualisation was done using Tableau Public, accessed below:
+The dashboard was created for the visualisation module for my Data Science Masters degree and was pre-processed and analyzed in Python and the visualisation was done using Tableau Public, accessed below:
 
 [Dashboard](https://public.tableau.com/views/BlackCoffeeAnalysis/ArtistRadio-ActivityDashboard2020?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
