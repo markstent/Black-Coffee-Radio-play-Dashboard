@@ -1,6 +1,6 @@
 # SAMRO Artist Radio-activity dashboard
 
-Module: CETM70 - Visualisation
+Masters degree module: CETM70 - Visualisation
 Date: 04/01/2022
 
 The dashboard was created for the visualisation module for my Data Science Masters degree and was pre-processed and analyzed in Python and the visualisation was done using Tableau Public, accessed below:
